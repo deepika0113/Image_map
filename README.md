@@ -244,11 +244,17 @@ hospital.html:
  </html>
  ```
 # OUTPUT
-![alt text](university.png.png)
-![alt text](<fort temple.png.png>)
-![alt text](map-1.png)
-![alt text](fort.png.png)
-![alt text](<golden temple.png.png>)
-![alt text](hospital.png.png)
+![university png](https://github.com/user-attachments/assets/3d2c2db4-34b6-409e-bfe5-ec15b889ce01)
+![fort temple png](https://github.com/user-attachments/assets/33d47ddf-c2eb-4f97-95ac-c095cdde91dc)
+![map](https://github.com/user-attachments/assets/12cee6f7-fe4a-4480-ab7f-7e9106d51527)
+![fort png](https://github.com/user-attachments/assets/c5dc4e5c-f977-471f-9f64-b17e5f6a5660)
+![golden temple png](https://github.com/user-attachments/assets/16729113-1c69-40be-8c76-a91c35e2e5a4)
+![hospital png](https://github.com/user-attachments/assets/2ca7698d-7db3-42c5-9235-35777d952ecc)
+
+
+
+
+
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
